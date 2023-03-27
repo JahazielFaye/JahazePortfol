@@ -66,12 +66,12 @@ const services = [{
 
 const dataportfolio = [{
   img: "https://drive.google.com/uc?export=view&id=1d4jueIImHRZlC9jm92CLb-D3trpsZmck",
-  description: "The wisdom of life consists in the elimination of non-essentials.",
+  description: "Wisdom comes from experience",
    link: "https://jahazielfaye.github.io/Weather-board/",
 },
   {
     img:"https://drive.google.com/uc?export=view&id=1xiUvDrgNPvy2jpzl7abfqjd0QNDUThIX",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "You Get To Decide The Path You Continue To Take",
     link: "#",
   },
   {
@@ -108,7 +108,7 @@ const dataportfolio = [{
   },
   {
     img:"https://drive.google.com/uc?export=view&id=1xiUvDrgNPvy2jpzl7abfqjd0QNDUThIX    ",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "You are doing great",
     link: "#",
   },
   ];
