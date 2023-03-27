@@ -4,11 +4,11 @@
 
 .table td,
 .table th {
-    color: var(--text-color);
+    color: #e27a13;
 }
 
 .t_border {
-    border-color: var(--text-color) !important;
+    border-color: #e27a13 !important;
 }
 
 .progress-title {
@@ -20,7 +20,7 @@
 
 .progress {
     height: 5px;
-    background: var(--secondary);
+    background: #e27a13;
     border-radius: 0;
     box-shadow: none;
     margin-bottom: 30px;

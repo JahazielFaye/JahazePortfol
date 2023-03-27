@@ -184,7 +184,7 @@
 }
 
 .the_menu .menu_item>a:hover {
-    color: var(--text-color-3);
+    color: #e27a13;
 }
 
 @media (min-width: 768px) {
@@ -201,7 +201,7 @@
 }
 
 .menu_footer a {
-    color: var(--text-color-2);
+    color: #e27a13;
     margin-right: 10px;
     text-decoration: none;
 }

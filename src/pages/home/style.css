@@ -100,7 +100,7 @@ section {
 
 .ac_btn {
     padding: 4px 19px;
-    color: var(--secondary-color);
+    color: #e27a13;
     position: relative;
     border: var(--secondary-color) 2px solid;
     overflow: hidden;
@@ -177,14 +177,14 @@ section {
 .intro_sec .h_bg-image .block {
     bottom: 50vh;
     max-width: 220px;
-    padding: 30px;
+    padding: 10px;
     left: -110px;
     position: absolute;
     width: 250px;
     height: 220px;
     border-radius: 100%;
     /* mix-blend-mode: multiply; */
-    background-color: #2f514e;
+    background-color:#e27a13;
     z-index: 9999999999;
     display: flex;
     align-items: center;
@@ -210,7 +210,7 @@ section {
 
 .intro_sec .h_bg-image .block .wrap-icon {
     font-size: 40px;
-    color: var(--text-color);
+    color: #e27a13;
     margin-bottom: 10px;
     display: block;
 }

@@ -55,6 +55,14 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <Link to="https://www.canva.com/design/DAFdHkQBw5Q/ZAoKPnzcvPfN2ahLXaqwKg/view?utm_content=DAFdHkQBw5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+                    <div id="button_h" className="ac_btn btn">
+                      Resume
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </Link>
                 </div>
               </div>
             </div>
