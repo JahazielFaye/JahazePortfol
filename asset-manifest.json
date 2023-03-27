@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/JahazePortfo/static/css/main.fb102354.css",
-    "main.js": "/JahazePortfo/static/js/main.53b69632.js",
-    "index.html": "/JahazePortfo/index.html"
+    "main.css": "/JahazePortfol/static/css/main.fb102354.css",
+    "main.js": "/JahazePortfol/static/js/main.ceb14651.js",
+    "index.html": "/JahazePortfol/index.html"
   },
   "entrypoints": [
     "static/css/main.fb102354.css",
-    "static/js/main.53b69632.js"
+    "static/js/main.ceb14651.js"
   ]
 }
