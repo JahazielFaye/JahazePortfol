@@ -5,9 +5,9 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Jahaziel",
+    title: "Hi 👋 Welcome,",
     animated: {
-      first: "I love Designing",
+      first: "My Name is Jahaziel, I love Designing",
         second: "and aspire to be skilled in coding",
         third: "And to create more content",
     },
@@ -65,78 +65,78 @@ const services = [{
 ];
 
 const dataportfolio = [{
-  img: "/images/web4.png",
-  desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-  link: "https://jahazielfaye.github.io/Weather-board/",
+  img: "https://drive.google.com/uc?export=view&id=1d4jueIImHRZlC9jm92CLb-D3trpsZmck",
+  description: "The wisdom of life consists in the elimination of non-essentials.",
+   link: "https://jahazielfaye.github.io/Weather-board/",
 },
-{
-  img: '../lone',
-  desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-  link: "",
-},
-{
-  img: "assets/web6.png",
-  desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-  link: "#",
-},
-
-{
-  img: "assets/web6.png",
-  desctiption: "Create More Than You Consume.",
-  link: "https://rilaey.github.io/Park-Finder/",
-},
-{
-  img: "assets/lone.JPG",
-  desctiption: "The Great Thing With Creativity You Gain More When You Do",
-  link: "https://github.com/JahazielFaye/Ecommerce-engine",
-},
-
-{
-  img: "assets/dt.JPG",
-  desctiption: "Life is meaningless without purpose",
-  link: "https://text-processor.herokuapp.com/",
-},
-{
-  img: "assets/mirror.JPG",
-  desctiption: "You Never Stop Learning",
-  link: "https://jahazielfaye.github.io/Jahaze-Portfolio/",
-},
-{
-  img: "assets/phonto.JPG",
-  desctiption: "Growth is Essential",
-  link: "https://github.com/JahazielFaye/PROJECT-2",
-},
-{
-  img:"assets/food.jpg",
-  desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-  link: "#",
-},
-];
-
-const contactConfig = {
-YOUR_EMAIL: "zxielleponsaran@gmail.com",
-description: "If you want to connect email listed above ",
-// creat an emailjs.com account 
-// check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-YOUR_SERVICE_ID: "service_id",
-YOUR_TEMPLATE_ID: "template_id",
-YOUR_USER_ID: "user_id",
-};
-
-const socialprofils = {
-github: "https://github.com/JahazielFaye",
-linkedin: "https://linkedin.com",
-instagram: "https://www.instagram.com/hazielfaye/",
-};
-export {
-meta,
-dataabout,
-dataportfolio,
-worktimeline,
-skills,
-services,
-introdata,
-contactConfig,
-socialprofils,
-logotext,
-};
+  {
+    img:"https://drive.google.com/uc?export=view&id=1xiUvDrgNPvy2jpzl7abfqjd0QNDUThIX",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://drive.google.com/uc?export=view&id=1kpwqRRZu9kAPVh4ioBGsTgqMAzjytYmZ",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  
+  {
+    img: "https://drive.google.com/uc?export=view&id=1kpwqRRZu9kAPVh4ioBGsTgqMAzjytYmZ",
+    description: "Create More Than You Consume.",
+    link: "https://rilaey.github.io/Park-Finder/",
+  },
+  {
+    img: "https://drive.google.com/uc?export=view&id=1vyf0EJzuRcERAcc-No19419jr4j2H3GN    ",
+    description: "The Great Thing With Creativity You Gain More When You Do",
+    link: "https://github.com/JahazielFaye/Ecommerce-engine",
+  },
+  
+  {
+    img: "https://drive.google.com/uc?export=view&id=19ym8QElrm2tLr_tZd_JNJbyXcG6JBhEB",
+    description: "Life is meaningless without purpose",
+    link: "https://text-processor.herokuapp.com/",
+  },
+  {
+    img: "https://drive.google.com/uc?export=view&id=1xikqA-BpMaf7cHUG4Ngv098YPuQYtIjc",
+    description: "You Never Stop Learning",
+    link: "https://jahazielfaye.github.io/Jahaze-Portfolio/",
+  },
+  {
+    img: " https://drive.google.com/uc?export=view&id=1NOP2gQNG3Q0ypS2s_00IOB27kwfybkrh",
+    description: "Growth is Essential",
+    link: "https://github.com/JahazielFaye/PROJECT-2",
+  },
+  {
+    img:"https://drive.google.com/uc?export=view&id=1xiUvDrgNPvy2jpzl7abfqjd0QNDUThIX    ",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  ];
+  
+  const contactConfig = {
+  YOUR_EMAIL: "zxielleponsaran@gmail.com",
+  description: "If you want to connect email listed above ",
+  // creat an emailjs.com account 
+  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+  YOUR_SERVICE_ID: "service_id",
+  YOUR_TEMPLATE_ID: "template_id",
+  YOUR_USER_ID: "user_id",
+  };
+  
+  const socialprofils = {
+  github: "https://github.com/JahazielFaye",
+  linkedin: "https://linkedin.com",
+  instagram: "https://www.instagram.com/hazielfaye/",
+  };
+  export {
+  meta,
+  dataabout,
+  dataportfolio,
+  worktimeline,
+  skills,
+  services,
+  introdata,
+  contactConfig,
+  socialprofils,
+  logotext,
+  };
